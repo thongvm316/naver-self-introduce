@@ -1,0 +1,6 @@
+name: react-test
+build:
+  image:
+    name: reg.navercorp.com/react-test
+type: web
+version: v1beta1
